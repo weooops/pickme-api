@@ -1,0 +1,32 @@
+[
+  {
+    "name": "강미나",
+    "description": "감귤, 과즙소녀, 알감자",
+    "image": "/images/ryan.png",
+    "category_id": 1
+  },
+  {
+    "name": "김도연",
+    "description": "리틀 전지현, 도도쮸, 도빙구, 강심장, 도꼼이",
+    "image": "/images/ryan.png",
+    "category_id": 1
+  },
+  {
+    "name": "김세정",
+    "description": "갓세정, 퀸세정, 아재세정, 원더세정",
+    "image": "/images/ryan.png",
+    "category_id": 1
+  },
+  {
+    "name": "김소혜",
+    "description": "상어, 펭귄, 우리혜, 카이저소혜",
+    "image": "/images/ryan.png",
+    "category_id": 1
+  },
+  {
+    "name": "김청하",
+    "description": "갓청하, 알콜청하, 춤통령, 우리술, 햄찌",
+    "image": "/images/ryan.png",
+    "category_id": 1
+  }
+]
